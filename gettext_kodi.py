@@ -1,3 +1,4 @@
+# -*- coding: utf-8 -*-
 from codequick.support import addon_data
 from codequick.utils import string_map
 import xbmc
